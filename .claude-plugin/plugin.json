@@ -1,0 +1,12 @@
+{
+  "name": "local-tts",
+  "version": "0.1.0",
+  "description": "Local text-to-speech that installs itself: Kokoro for low-resource CPUs, NeuTTS Air for CPU voice cloning, Chatterbox (Turbo, standard, multilingual, Nano) for ROCm/CUDA GPUs. Detects hardware, keeps a local registry of installed engines and cloned voice embeddings, reads text aloud or writes audio files.",
+  "author": {
+    "name": "Daniel Rosehill",
+    "url": "https://github.com/danielrosehill"
+  },
+  "repository": "https://github.com/danielrosehill/Local-TTS-Plugin",
+  "license": "MIT",
+  "keywords": ["tts", "text-to-speech", "kokoro", "chatterbox", "neutts", "voice-cloning", "rocm", "offline", "read-aloud"]
+}
